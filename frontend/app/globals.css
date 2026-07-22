@@ -1768,7 +1768,7 @@ body::before {
     linear-gradient(180deg, #0a0f1b 0%, #060b14 100%);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
-  overflow: hidden;
+  overflow: visible;
   margin-bottom: 1rem;
 }
 
@@ -2209,16 +2209,19 @@ body::before {
 }
 
 .node-stat .stat-label {
-  font-size: 0.8rem;
-  color: var(--text-muted);
+  font-size: 0.8rem !important;
+  color: var(--text-muted) !important;
+  margin-bottom: 0 !important;
 }
 
 .node-stat .stat-value {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  font-family: var(--font-mono);
-  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  color: var(--text-primary) !important;
+  font-family: var(--font-mono) !important;
+  text-transform: capitalize !important;
+  line-height: 1.4 !important;
+  margin-bottom: 0 !important;
 }
 
 .status-normal { color: var(--green) !important; }

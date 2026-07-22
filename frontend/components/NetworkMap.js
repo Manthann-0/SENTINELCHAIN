@@ -728,7 +728,7 @@ export default function NetworkMap({ activeScenarioId }) {
       </leafletDeps.MapContainerComponent>
 
       {activeSelectedNode && (
-        <div className="node-detail-panel" onClick={(e) => e.stopPropagation()}>
+        <div key={activeSelectedNode.id} className="node-detail-panel" onClick={(e) => e.stopPropagation()}>
           <div className="node-detail-header">
             <span
               className="node-icon node-icon--svg"
@@ -743,7 +743,7 @@ export default function NetworkMap({ activeScenarioId }) {
               </div>
               <span className="node-type-badge">{NODE_LABELS[activeSelectedNode.node_type]}</span>
             </div>
-            <button className="btn-close-panel" onClick={() => setSelectedNode(null)} aria-label="Close node details">×</button>
+            <button className="btn-close-panel" onClick={() => setSelectedNodeId(null)} aria-label="Close node details">×</button>
           </div>
           <div className="node-detail-mini-map">
             <span className="node-detail-mini-map__ring"></span>
