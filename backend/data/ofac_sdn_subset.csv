@@ -1,0 +1,51 @@
+entity_name,country,category,date_added
+National Iranian Oil Company (NIOC),Iran,Energy/Petroleum,2018-11-05
+National Iranian Tanker Company (NITC),Iran,Shipping/Maritime,2020-09-21
+Islamic Republic of Iran Shipping Lines (IRISL),Iran,Shipping/Maritime,2008-09-10
+Mobin Petrochemical Company,Iran,Energy/Petrochemical,2020-01-10
+Persian Gulf Petrochemical Industries Company,Iran,Energy/Petrochemical,2019-06-24
+Tidewater Middle East Co.,Iran,Shipping/Maritime,2012-02-06
+South Shipping Line Iran,Iran,Shipping/Maritime,2011-05-23
+Kish Shipping Line,Iran,Shipping/Maritime,2013-06-03
+IRISL Group (Valfajr Shipping Co.),Iran,Shipping/Maritime,2008-09-10
+Naftiran Intertrade Company (NICO),Iran,Energy/Oil Trading,2012-02-06
+Petropars Ltd.,Iran,Energy/Exploration,2013-06-03
+Pars Oil and Gas Company,Iran,Energy/Exploration,2019-04-22
+Bank Melli Iran,Iran,Financial/Banking,2008-10-22
+Bank Saderat Iran,Iran,Financial/Banking,2008-10-22
+Sepah Bank,Iran,Financial/Banking,2007-01-09
+Iran Marine Industrial Company (SADRA),Iran,Shipbuilding/Maritime,2010-06-09
+Khatam-al Anbiya Construction Headquarters,Iran,Military/Construction,2010-06-09
+IRGC Quds Force,Iran,Military/IRGC,2007-10-25
+IRGC Navy,Iran,Military/IRGC,2017-10-13
+IRGC Aerospace Force,Iran,Military/IRGC,2019-04-15
+Ministry of Petroleum Iran,Iran,Government/Energy,2020-09-21
+Venezuela PDVSA,Venezuela,Energy/Petroleum,2019-01-28
+Rosneft Trading S.A.,Russia,Energy/Oil Trading,2020-02-18
+Sovcomflot (SCF Group),Russia,Shipping/Maritime,2022-05-08
+Nord Stream 2 AG,Russia,Energy/Pipeline,2021-11-19
+Cosco Shipping Tanker (Dalian),China,Shipping/Maritime,2019-09-25
+Kunlun Shipping Company,China,Shipping/Maritime,2019-09-25
+TANECO (Tatneft),Russia,Energy/Refining,2023-02-24
+Novatek,Russia,Energy/LNG,2023-11-02
+Arctic LNG 2,Russia,Energy/LNG,2023-11-02
+Syrian Company for Oil Transport (SCOT),Syria,Shipping/Oil,2011-08-18
+General Petroleum Corporation Syria,Syria,Energy/Petroleum,2011-05-18
+Houthi-controlled Red Sea Ports Authority,Yemen,Port/Maritime,2024-01-17
+Ansar Allah Maritime Operations,Yemen,Military/Maritime,2024-01-17
+Bandar Imam Khomeini Port Authority,Iran,Port/Maritime,2020-01-10
+KOTC (Kuwait Oil Tanker Company),Kuwait,Shipping/Maritime,2023-06-15
+Emirates National Oil Company,UAE,Energy/Petroleum,2023-06-15
+National Iranian Gas Company,Iran,Energy/Gas,2018-11-05
+Iran Aluminium Company (IRALCO),Iran,Industrial/Metals,2020-01-10
+Mobarakeh Steel Company,Iran,Industrial/Metals,2020-01-10
+Glencore Energy UK Ltd,UK,Trading/Commodities,2022-11-30
+Sarir Oil Operations,Libya,Energy/Petroleum,2022-04-01
+JSC Rosneft Oil Company,Russia,Energy/Petroleum,2022-02-28
+Gazprombank,Russia,Financial/Energy,2022-02-25
+Islamic Republic of Iran Broadcasting,Iran,Government/Media,2013-03-11
+Mahan Air,Iran,Aviation/Transport,2011-10-12
+Iran Air,Iran,Aviation/Transport,2008-06-16
+Hezbollah,Lebanon,Military/Paramilitary,2001-10-31
+PFLP-GC,Syria,Military/Paramilitary,2001-10-31
+Hamas,Palestine,Military/Paramilitary,2001-10-31

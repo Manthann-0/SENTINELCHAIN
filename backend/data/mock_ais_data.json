@@ -1,0 +1,142 @@
+[
+  {
+    "vessel_id": "MMSI_636092587",
+    "lat": 26.5678,
+    "lon": 56.2345,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_538006830",
+    "lat": 26.3412,
+    "lon": 56.4521,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_311000725",
+    "lat": 26.1234,
+    "lon": 56.7890,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_477325800",
+    "lat": 25.9501,
+    "lon": 56.1234,
+    "corridor_id": "hormuz",
+    "status": "at_anchor"
+  },
+  {
+    "vessel_id": "MMSI_636018570",
+    "lat": 26.7823,
+    "lon": 56.5678,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_249084000",
+    "lat": 26.4567,
+    "lon": 55.8901,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_229385000",
+    "lat": 25.8123,
+    "lon": 56.3456,
+    "corridor_id": "hormuz",
+    "status": "moored"
+  },
+  {
+    "vessel_id": "MMSI_538008362",
+    "lat": 26.6543,
+    "lon": 56.9012,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_353136000",
+    "lat": 26.2345,
+    "lon": 56.0123,
+    "corridor_id": "hormuz",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_636019293",
+    "lat": 26.8901,
+    "lon": 55.7654,
+    "corridor_id": "hormuz",
+    "status": "at_anchor"
+  },
+  {
+    "vessel_id": "MMSI_256789000",
+    "lat": 12.6234,
+    "lon": 43.3456,
+    "corridor_id": "red_sea",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_538005421",
+    "lat": 12.4567,
+    "lon": 43.5678,
+    "corridor_id": "red_sea",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_477998300",
+    "lat": 12.8901,
+    "lon": 43.2345,
+    "corridor_id": "red_sea",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_636092100",
+    "lat": 13.1234,
+    "lon": 43.6789,
+    "corridor_id": "red_sea",
+    "status": "at_anchor"
+  },
+  {
+    "vessel_id": "MMSI_311045600",
+    "lat": 12.3456,
+    "lon": 43.8901,
+    "corridor_id": "red_sea",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_538009876",
+    "lat": 13.2345,
+    "lon": 43.1234,
+    "corridor_id": "red_sea",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_249000123",
+    "lat": 2.5678,
+    "lon": 101.2345,
+    "corridor_id": "malacca",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_636018200",
+    "lat": 1.8901,
+    "lon": 103.4567,
+    "corridor_id": "malacca",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_353100500",
+    "lat": 3.1234,
+    "lon": 102.6789,
+    "corridor_id": "malacca",
+    "status": "underway_using_engine"
+  },
+  {
+    "vessel_id": "MMSI_477200100",
+    "lat": 2.3456,
+    "lon": 100.8901,
+    "corridor_id": "malacca",
+    "status": "at_anchor"
+  }
+]
